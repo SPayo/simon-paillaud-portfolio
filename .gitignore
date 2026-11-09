@@ -1,1 +1,6 @@
 .DS_Store
+Thumbs.db
+
+# Dépôt public : ne jamais publier les CV (ils contiennent le numéro de téléphone)
+files/
+*.pdf
